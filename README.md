@@ -7,9 +7,7 @@ My name is Luis Felipe aka <b>Luis</b> and I'm a FullStack Web Developer who liv
 
 ## 📈 Github Stats
 
-[![Luis GitHub stats](https://github-readme-stats.vercel.app/api?username=luisfelipesantos&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisfelipesantos&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Luis GitHub stats](https://github-readme-stats.vercel.app/api?username=luisfelipesantos&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisfelipesantos&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ##  🙋‍♂️  Get in touch
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/luisfoliv/)

@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
-My name is Luis🧑. I'm a FullStack Software Engineer👨‍💻. I believe that technology can empowers us to create amazing things that can make the world a better place. 🦾🌎🚀
+I'm Luis, a FullStack Software Engineer based in Brazil who's passionate about using technology to create positive change in the world. With every project I undertake, I strive to empower others and build innovative solutions that make a real difference. Let's code for a brighter tomorrow! 🌞💻🌍
 
 
 ##  🙋‍♂️  Get in touch

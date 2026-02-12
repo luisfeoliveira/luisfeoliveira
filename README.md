@@ -15,7 +15,7 @@ Good software needs good communication—with the computer and with your team. I
 
 ## Links
 
-[Website](https://luisoliveira.me) | [LinkedIn](https://www.linkedin.com/in/luisfeoliveira/) | [X](https://x.com/luisfeoliveiraa)
+[Website](https://luisoliveira.me) | [LinkedIn](https://www.linkedin.com/in/luisfeoliveira/) | [X](https://x.com/luisfeoliveiraa) | [Email](mailto:luisfelipesantosdev@gmail.com)
 
 ---
 

@@ -40,6 +40,11 @@ const luisOliveira = {
 ### `Coding Stats`
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ### `You can find me here`

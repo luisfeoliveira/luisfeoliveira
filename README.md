@@ -1,6 +1,4 @@
 
-
-![Profile views](https://komarev.com/ghpvc/?username=luisfeoliveira&color=grey&style=flat-square)
 ```                                                                                                                                                 
 ▗▖ ▗▖  █             ▄▄▄   ▄            ▗▖          █       
 ▐▌ ▐▌  ▀             ▀█▀   █            ▐▌          ▀       
@@ -35,7 +33,7 @@ const luisOliveira = {
     focus: "Contributing more to open source"
   },
   
-  philosophy: "Good software needs good communication — with the computer and with your team"
+  philosophy: "Good software needs good communication — with your computer and with your team"
 };
 ```
 
@@ -50,3 +48,9 @@ const luisOliveira = {
 [![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=40&color=%23aaaaaa)](https://www.linkedin.com/in/luisfeoliveira/) &nbsp;
 [![x](https://www.readmecodegen.com/api/social-icon?name=x&size=40&color=%23aaaaaa)](https://x.com/luisfeoliveiraa) &nbsp;
 [![envelope](https://www.readmecodegen.com/api/social-icon?name=envelope&size=40&color=%23aaaaaa)](mailto:luisfelipesantosdev@gmail.com)
+
+------
+
+
+
+![Profile views](https://komarev.com/ghpvc/?username=luisfeoliveira&color=grey&style=flat-square)

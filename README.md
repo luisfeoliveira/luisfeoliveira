@@ -32,11 +32,11 @@ const luisOliveira = {
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   9 hrs 53 mins         ████████████████████▓░░░░   82.17 %
-Ruby         1 hr 10 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 %
-JavaScript   38 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
-Markdown     11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-Other        3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+TypeScript   10 hrs 45 mins        ████████████████████▓░░░░   82.66 %
+Ruby         1 hr 10 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
+JavaScript   38 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
+Markdown     16 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+Other        5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 ```
 
 <!--END_SECTION:waka-->

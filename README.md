@@ -32,8 +32,7 @@ const luisOliveira = {
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby         18 mins               ███████████████████▓░░░░░   78.95 %
-TypeScript   4 mins                █████▒░░░░░░░░░░░░░░░░░░░   21.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
